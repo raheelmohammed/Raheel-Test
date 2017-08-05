@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Raheel Test" max_length="40" name="x_tarr2_raheel_tes_raheel_test" type="collection"/>
+</database>
