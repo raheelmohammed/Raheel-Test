@@ -23,14 +23,14 @@
         <sys_created_by>Z0028HR</sys_created_by>
         <sys_created_on>2017-08-05 14:22:58</sys_created_on>
         <sys_id>07d9b7cf13d08300fcaaf4d2e144b0ab</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_updated_by>Z0028HR</sys_updated_by>
-        <sys_updated_on>2017-08-06 20:17:47</sys_updated_on>
+        <sys_updated_on>2017-08-06 20:30:29</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>3.0.2</version>
+        <version>3.0.3</version>
     </sys_app>
 </record_update>
