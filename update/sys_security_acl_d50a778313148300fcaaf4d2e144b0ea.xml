@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>Z0028HR</sys_created_by>
         <sys_created_on>2017-08-05 14:23:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d50a778313148300fcaaf4d2e144b0ea</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_tarr2_raheel_tes_raheel_test</sys_name>

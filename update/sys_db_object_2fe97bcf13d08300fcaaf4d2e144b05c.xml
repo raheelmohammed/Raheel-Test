@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>Z0028HR</sys_created_by>
         <sys_created_on>2017-08-05 14:23:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2fe97bcf13d08300fcaaf4d2e144b05c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Raheel Test</sys_name>
